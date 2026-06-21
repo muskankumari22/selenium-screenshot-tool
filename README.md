@@ -12,13 +12,14 @@ Separate folder created for each execution
 Input validation
 
 
-33Technologies
+##Technologies
 Java
 Selenium WebDriver
 Maven
 WebDriverManager
 Apache Commons IO
-How to Run
+
+##How to Run
 Clone the repository.
 Open the project in VS Code or IntelliJ IDEA.
 Install Maven dependencies.
