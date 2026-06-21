@@ -1,8 +1,8 @@
-#Overview
+# Selenium Smart Screenshot Tool
 
 A Java Selenium automation tool that captures website screenshots at user-defined intervals. The tool compares each new screenshot with the previously saved screenshot using pixel-by-pixel image comparison and saves a new screenshot whenever a visual difference is detected.
 
-##Features
+## Features
 Automatic website screenshot capture
 User-defined capture interval
 User-defined number of screenshots
@@ -12,14 +12,14 @@ Separate folder created for each execution
 Input validation
 
 
-##Technologies
+## Technologies
 Java
 Selenium WebDriver
 Maven
 WebDriverManager
 Apache Commons IO
 
-##How to Run
+## How to Run
 Clone the repository.
 Open the project in VS Code or IntelliJ IDEA.
 Install Maven dependencies.
