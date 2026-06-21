@@ -1,0 +1,5 @@
+target/
+screenshots/
+*.class
+.idea/
+.vscode/
