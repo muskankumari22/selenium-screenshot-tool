@@ -1,8 +1,8 @@
-Overview
+#Overview
 
 A Java Selenium automation tool that captures website screenshots at user-defined intervals. The tool compares each new screenshot with the previously saved screenshot using pixel-by-pixel image comparison and saves a new screenshot whenever a visual difference is detected.
 
-Features
+##Features
 Automatic website screenshot capture
 User-defined capture interval
 User-defined number of screenshots
@@ -10,7 +10,9 @@ Pixel-by-pixel image comparison
 Saves screenshots only when visual changes are detected
 Separate folder created for each execution
 Input validation
-Technologies
+
+
+33Technologies
 Java
 Selenium WebDriver
 Maven
